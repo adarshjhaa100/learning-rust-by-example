@@ -1,0 +1,19 @@
+Build using rustc
+    rustc -o outputfilename
+
+Format rust programs:
+    rustfmt
+    
+
+
+Cargo commands:
+
+    cargo new projectname - create a new cargo project
+    cargo build - build project(compile and generate exec)
+    cargo check - compile without generating exec
+
+    cargo run - run a rust project
+
+
+
+
